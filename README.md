@@ -1,5 +1,5 @@
 # Pig-Game
-Pig game created by me using javascript, html and css, which i learned during javascript course on udemy.
+Pig game implemented by me using javascript, html and css, which i learned studying javascript course on udemy.
 
 #Rules of the Game
 - The game has 2 players, playing in rounds
